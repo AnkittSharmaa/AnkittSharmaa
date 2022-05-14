@@ -1,14 +1,18 @@
 ### Hi there, I'm Ankit Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-sharma-he-hm/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sharmaankit261/)
+[![Webiste Badge](https://img.shields.io/website?url=https%3A%2F%2Fankittsharmaa.github.io%2Fcv%2F)](https://ankittsharmaa.github.io/cv/)
 
 
-<ul>
-  <li>I’m currently pursuing my B. Tech. in Information Technology from VJTI, Mumbai.</li>  
-  <li>I’m interested in  Web Development,Python and Problem Solving</li>
-  <li>You can reach me at *ankitbalotra1@gmail.com*</li>
-  
-</ul>
+
+- I’m currently pursuing my B. Tech. in Information Technology from VJTI, Mumbai.
+
+- I’m interested in  Web Development,Python and Problem Solving.
+
+- All of my projects are available [here](https://github.com/AnkittSharmaa?tab=repositories).
+
+- You can reach me at *ankitbalotra1@gmail.com*.
+
 
 <!-- 
 <p>
@@ -16,8 +20,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittsharmaa&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p> -->
 
-
-<br>
 <br>
 
 <h3 align="center">Languages and Tools I've worked with</h3>
