@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @AnkittSharmaa
-- 👀 I’m interested in learning new technologies used in software development.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects with high learning scope.
-- 📫 You can contact me at [LinkedIn](https://www.linkedin.com/mwlite/in/ankit-sharma-he-hm),[Mail](ankitbalotra1@gmail.com)
+### Hi there, I'm Abhishek Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-sharma-he-hm/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sharmaankit261/)
 
-<!---
-AnkittSharmaa/AnkittSharmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<ul>
+  <li>I’m currently pursuing my B. Tech. in Information Technology from VJTI, Mumbai.</li>  
+  <li>I’m interested in  Web Development,Python and Problem Solving</li>
+</ul>
+
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankittsharmaa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittsharmaa&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
