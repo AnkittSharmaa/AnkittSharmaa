@@ -11,7 +11,7 @@
 
 - All of my projects are available [here](https://github.com/AnkittSharmaa?tab=repositories).
 
-- You can reach me at *ankitbalotra1@gmail.com*.
+- You can reach me [here](*ankitbalotra1@gmail.com*).
 
 
 <!-- 
