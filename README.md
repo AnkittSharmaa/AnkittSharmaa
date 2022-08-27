@@ -7,7 +7,7 @@
 
 - I’m currently pursuing my B. Tech. in Information Technology from VJTI, Mumbai.
 
-- I’m love exploring and learning new things.
+- I love exploring and learning new things.
 
 - Currently doing Web Development and Problem Solving.
 
