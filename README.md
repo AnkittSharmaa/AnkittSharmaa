@@ -7,7 +7,9 @@
 
 - I’m currently pursuing my B. Tech. in Information Technology from VJTI, Mumbai.
 
-- I’m interested in  Web Development,Python and Problem Solving.
+- I’m love exploring and learning new things.
+
+- Currently doing Web Development and Problem Solving.
 
 - All of my projects are available [here](https://github.com/AnkittSharmaa?tab=repositories).
 
