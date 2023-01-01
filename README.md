@@ -9,8 +9,6 @@
 
 - I love exploring and learning new things.
 
-- Currently doing Web Development and Problem Solving.
-
 - All of my projects are available [here](https://github.com/AnkittSharmaa?tab=repositories).
 
 - You can reach me [here](mailto:ankitbalotra1@gmail.com).
